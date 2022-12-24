@@ -1,2 +1,2 @@
 # php-application
-test purpose only
+this application test purpose only
